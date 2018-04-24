@@ -9,7 +9,7 @@ O script foi testado no Debian Jessie e Stretch, e necessita do wget e ferrament
 distribuição. 
 Ele usa o wget com o link do **FTP (oficial)** da Mozilla, para baixar o firefox, você pode ver mais detalhes nesse link:
 https://ftp.mozilla.org/pub/firefox/releases/latest/README.txt
-Ele cria no diretório root, um diretório chamado “firefox-installer0124” que armanezará o download do firefox realizado pelo
+Ele cria no diretório root, um diretório chamado “firefox-installer0124” que armazenará o download do firefox realizado pelo
 wget, mesmo se cancelado, o wget tem a capacidade de retomar, poupando tempo e banda. 
 Após o download, o script verifica se o tarball está integro, e instala o firefox em /opt/firefox, criando links e 
 proporcionando uma entrada no menu, essa entrada usa o ícone oficial, disponível no próprio tarball do firefox.  
