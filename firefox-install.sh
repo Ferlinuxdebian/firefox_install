@@ -95,7 +95,7 @@ cat << EOF
 
 Página do projeto, com ajuda.
 
->>> site.github.teste.colocar.com
+ >>> https://github.com/Ferlinuxdebian/firefox_install/tree/master
 
 EOF
 echo
