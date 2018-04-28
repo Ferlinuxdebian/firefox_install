@@ -37,3 +37,7 @@ chmod +x firefox-install.sh
 ```
 ### Screenshot
 ![alt text](https://i.imgur.com/GM4lyXu.png)
+
+### Vídeo de demostração
+
+https://goo.gl/nWC75o
